@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.3.1
+peft==0.14.0
+datasets==4.0.0
+transformers==4.43.0
+deepspeed==0.17.2
+tensorboard==2.20.0
