@@ -52,7 +52,7 @@
   PyTorch 2.2
   ```
 
-  - 你需要安装的包在 [requirements.txt](https://git.woa.com/dslleisu/asr_llm/blob/master/requirements.txt)
+  - 你需要安装的包在 [requirements.txt](https://github.com/DSLJDI/Qwen2.5_distill/blob/main/requirements.txt)
 
   ```bash
 pip install -r requirements.txt
